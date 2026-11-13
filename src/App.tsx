@@ -1,4 +1,4 @@
-import logo from "./assets/zmc-logo.png";
+import logo from "./assets/ZMC-logo.png";
 import doctor from "./assets/doctor.jpg";
 import {
   Menu,
